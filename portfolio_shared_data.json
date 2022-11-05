@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Taksh Anand",
+      "titles": [ "Sr. Full Stack Java Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/anandt7811/",
           "class": "fab fa-github"
         },
         {
@@ -19,7 +19,7 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "Java 8",
           "class": "devicon-html5-plain",
           "level": "95"
         },
@@ -44,7 +44,7 @@
           "level": "70"
         },
         {
-          "name": "Sass",
+          "name": "React",
           "class": "devicon-sass-original",
           "level": "75"
         },
@@ -54,7 +54,7 @@
           "level": "85"
         },
         {
-          "name": "C#",
+          "name": "AWS",
           "class": "devicon-csharp-plain",
           "level": "65"
         },
