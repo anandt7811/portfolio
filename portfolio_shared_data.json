@@ -35,32 +35,32 @@
         },
         {
           "name": "Data Modeling",
-          "class": "devicon-typescript-plain",
+          "class": "",
           "level": "90"
         },
         {
           "name": "AI and ML modules",
-          "class": "devicon-javascript-plain",
+          "class": "",
           "level": "70"
         },
         {
           "name": "React",
-          "class": "devicon-sass-original",
+          "class": "",
           "level": "75"
         },
         {
           "name": "GCP",
-          "class": "devicon-bootstrap-plain",
+          "class": "",
           "level": "85"
         },
         {
           "name": "AWS",
-          "class": "devicon-csharp-plain",
+          "class": "",
           "level": "65"
         },
         {
           "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "class": "",
           "level": "60"
         }
       ]
