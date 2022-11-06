@@ -23,48 +23,37 @@
         
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Meem Infonet Private Limited, Vadodara, Gujarat",
+        "startDate": "June 2020-Aug 2020",
+        "description": "Data Analyst\n Skills used: GIT, Unix, Python (SciPy, NumPy, Pandas, StatsModel, Plotly), MySQL, Excel, Google Cloud Platform, Random Forests, Naive Bayes Classifier, Git 2x, Agile/SCRUM, Matplotlib, SAS, regression, logistic regression, Hadoop, NoSQL, random forest, JSON, XML, MapReduce \n Implemented Data Exploration to analyze patterns and to select features using Python SciPy. \nBuilt Factor Analysis and Cluster Analysis models using Python SciPy to classify customers into different target groups.\n Designed an A/B experiment for testing the business performance of the new recommendation system. \nSupported MapReduce Programs running on the cluster. \nThe JSON data was then analyzed and sorted into categories. \nEvaluated business requirements and prepared detailed specifications that follow project guidelines required to develop written programs. \nPerformed Data Enrichment jobs to deal missing value, to normalize data, and to select features. \nAnalyzed the partitioned and bucketed data and compute various metrics for reporting. \nExtracted data from Twitter using Java and Twitter API. Parsed JSON formatted twitter data and uploaded to database. \nUtilize SQL Excel and several Marketing/Web Analytics tools (Google Analytics, Bing Ads, AdWords, AdSense, Criteo. Smartly, SurveyMonkey, and Mailchimp) in order to complete business and marketing analysis and assessment. \nCreating meta-data and data dictionary for the future data use/ data refresh of the same client. \nStructuring the Data Marts to store and organize the customer's data. \nRunning SQL scripts, creating indexes, stored procedures for data analysis. \nPrepared Scripts in Python and Shell for Automation of administration tasks. \nMaintained PL/SQL objects like packages, triggers, procedures etc. O Mapping flow of trade cycle data from source to target and documenting the same. \nPerforming QA on the data extracted, transformed, and exported to excel. \nParticipated in all phases of data mining: data collection, data cleaning, developing models, validation, visualization and performed Gap analysis. \nExtracted data from HDFS and prepared data for exploratory analysis using data munging. \nBuilt models using Statistical techniques like Bayesian HMM and Machine Learning classification models like XG Boost, SVM, and Random Forest. \nUsed pandas, numpy, seaborn, scipy, matplotlib, scikit-learn, NLTK in Python for developing various machine learning algorithms. \nWorked on different data formats such as JSON, XML and performed machine learning algorithms in Python. \nUsed GIT for version control with data engineer and data scientist colleagues.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
+        "technologies": []
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "State Speak – Best Overall AI hack",
+        "startDate": "March 2022",
+        "description": "Extracted data from twitter API using multi-threading as the API would only allow limited data to be accessed in one session. \nThe JSON data was then analyzed and sorted into categories. \nExtracted tweets’ content, date of post and location of post. \nTweets content was analyzed using NLP and sckikit-learn modules to analyze the trends and understand the sentiment. \nThe sentiments were then visually analyzed using pie charts created using Matplotlib module. \nAll the analyzed data and pie charts were then pushed to the front end which was developed using ReactJS, HTML and CSS.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
+        "technologies": []
+      },
+     {
+        "title": "Drawl Assist development – Best Overall Hack 2019",
+        "startDate": "October 2019",
+        "description": "Implemented Speech to text API from GCP to convert spoken words to written text. \nUsed NLP to make sure the spellings and sentence structure was correct. \nUsed ASPOSE API to convert text to image as the CNC controller would only accept images and draw them. \nCreated a custom library to pass image to CNC controller software to process and had write the text on a piece of paper. \nThis project was aimed at helping people with disabilities write letters and texts in their own handwriting.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": []
       }
     ],
     "experience": [
