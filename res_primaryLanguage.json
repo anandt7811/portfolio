@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Sleep Number, Minneapolis, MN",
-        "startDate": "Nov 2020 - Oct 2022",
-        "description": "In this project, I had worked on ",
+        "title": "Cyfliks Technology Private Limited, Vadodara, Gujarat ",
+        "startDate": "June 2021-Aug 2021",
+        "description": "Data analyst \n Skills used: R 3.0, SQL, JSON, HADOOP, MapReduce, Spark, R Studio, JAVA, AWS.\n Responsibilities: \n Developed and implemented predictive models using Natural Language Processing Techniques and machine learning algorithms such as linear regression, classification, multivariate regression, Naive Bayes, Random Forests, K-means clustering, PCA and regularization for data analysis.\nDesigned and developed Natural Language Processing models for sentiment analysis.\nApplied clustering algorithms ie. Hierarchical, K-means with help of Scikit and Scipy.\nDeveloped visualizations and dashboards using ggplot, Tableau.\nWorked on development of data warehouse, Data Lake and ETL systems using relational and non-relational tools like SQL, No SQL\nBuilt and analyzed datasets using R, SAS, Matlab and Python (in decreasing order of usage). \nParticipated in all phases of datamining: data collection, data cleaning, developing models, validation, visualization and performed Gap analysis.\nData Manipulation and Aggregation from different source using Nexus, Toad, BusinessObjects, PowerBI and SmartView.\nImplemented Agile Methodology for building an internal application.\nProgrammed a utility in Python that used multiple packages (scipy, numpy, pandas).\nUnderstanding the client business problems and analyzing the data by using appropriate Statistical models to generate insights.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
